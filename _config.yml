@@ -12,3 +12,7 @@ kramdown:
 theme: minima
 plugins:
 - jekyll-remote-theme
+minima:
+  skin: dark
+
+header_pages:
